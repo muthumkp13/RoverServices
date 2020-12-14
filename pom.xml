@@ -6,9 +6,6 @@
     <artifactId>rover-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>rover test</name>
-    <description>To test the rover at multiple environment
-    </description>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -143,7 +140,6 @@
     </profiles>
 
     <build>
-        <finalName>rover</finalName>
         <!-- To make spring boot as a fat jar so that all required jar files 
             and main file is added for running the code from Docker. -->
         <plugins>
