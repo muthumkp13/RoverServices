@@ -21,7 +21,7 @@
     </parent>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.jsonschema2pojo/jsonschema2pojo-core -->
+        <!-- https://mvnrepository.com/artifact/org.jsonschema2pojo/jsonschema2pojo-core test -->
         <dependency>
             <groupId>org.jsonschema2pojo</groupId>
             <artifactId>jsonschema2pojo-core</artifactId>
